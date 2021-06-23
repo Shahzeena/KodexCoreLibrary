@@ -60,7 +60,7 @@ TODO: Add long description of the pod here.
    s.dependency 'PinCodeTextField'
    s.dependency 'ESTabBarController-swift'
    s.dependency 'SideMenu'
-   s.dependency 'MaterialComponents/TextFields'
+#   s.dependency 'MaterialComponents/TextFields'
    s.dependency 'ActiveLabel'
    s.dependency 'AWSAuthUI'#, '~> 2.6.13'
    s.dependency 'AWSMobileClient'#, '~> 2.6.13'
