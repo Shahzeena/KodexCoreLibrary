@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KodexCoreLibrary'
-  s.version          = '1.1.7'
+  s.version          = '1.1.8'
   s.summary          = 'Basic Kodex Core Library'
 
 # This description is used to generate tags and improve search results.
@@ -67,8 +67,8 @@ TODO: Add long description of the pod here.
    s.dependency 'AWSDynamoDB'#, '~> 2.6.13'
    s.dependency 'AWSS3'#, '~> 2.6.13'
    s.dependency 'AWSCognito'#, '~> 2.6.13'
-   s.dependency 'MaterialComponents/BottomSheet'
-   s.dependency 'MaterialComponents/BottomSheet+ShapeThemer'
+   #    s.dependency 'MaterialComponents/BottomSheet'
+   #  s.dependency 'MaterialComponents/BottomSheet+ShapeThemer'
    s.dependency 'TouchVisualizer'
    s.dependency 'NVActivityIndicatorView'
    s.dependency 'Lightbox'
